@@ -40,6 +40,9 @@ h2 {
 }
 
 figure {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     text-align: center;
     background-color: white;
     width: 80vw;
